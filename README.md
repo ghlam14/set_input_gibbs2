@@ -52,8 +52,9 @@ input data for Gibbs2
   --> temperature range: T_final= 500
  
  The units of Gibbs2 : volumes (in bohr^3  ) and energies (in Hartree ).
- 
-      out data  in file:   case.ing  
+ -----------------------------
+ out data  in file:   case.ing  
+ ------------------------------
       mm   98.2000
       vfree  4
       pressure      0.00      1.00     20.00
