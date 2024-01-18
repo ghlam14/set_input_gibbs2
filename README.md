@@ -16,17 +16,16 @@ Example:
            =================================================================
                          input data for Gibbs2                               
                  https://aoterodelaroza.github.io/gibbs2/                    
-             --------------------------------------------------------        
-             Necessary  input paramaters obtained from your ab initio code 
-                     The bulmk modulus        : B    (GPa)                         
-                    The prussure derivative  : Bp                            
-                    The volume               : V0   ( a.u^3)                         
-                    The total energy at V0   : E0   (Ry  )                       
-                     MM, the molecularmass of the primitive cell (in a.m.u )      
-                    VFREE,the total number of atoms in the primitive cell.   
-             ********************* 07/01/2024 pg@G.Benabdellah *****************
- 
-           ---> Enter the volume (in  a.u^3)  : V0=   200
+         --------------------------------------------------------        
+         Necessary  input paramaters obtained from your ab initio code 
+         The bulmk modulus        : B    (GPa)                         
+         The prussure derivative  : Bp                            
+         The volume               : V0   ( a.u^3)                         
+         The total energy at V0   : E0   (Ry  )                       
+         MM, the molecularmass of the primitive cell (in a.m.u )      
+         VFREE,the total number of atoms in the primitive cell.   
+          ********************* 07/01/2024 pg@G.Benabdellah *****************
+            ---> Enter the volume (in  a.u^3)  : V0=   200
            ---> Enter the bulmk modulus (in GPa ) : B=  120
            ---> Enter the prussure derivative of B: Bp= 4.5
            ---> Enter the equilibrium total energy at V0 ( in Ry) : E0= -3500.  
