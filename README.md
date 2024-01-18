@@ -1,9 +1,11 @@
 A simple fortran program to set the input (case.ing file) of GIBBS2 code (https://aoterodelaroza.github.io/gibbs2/ )
 
 to compile the program:
+
      :>     gfortran set_input_gibbs2.f90  -o  set_input_gibbs2
      
 to execute:
+
       :>   ./set_input_gibbs2
  
 Example: 
