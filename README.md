@@ -54,12 +54,11 @@ input data for Gibbs2
  The units of Gibbs2 : volumes (in bohr^3  ) and energies (in Hartree ).
  
       out data  in file:   case.ing  
- ===
-     mm   98.2000
-     vfree  4
-     pressure      0.00      1.00     20.00
-     temperature     50.00     50.00    500.00
-     phase XXXX          fit        murn 
+      mm   98.2000
+      vfree  4
+      pressure      0.00      1.00     20.00
+      temperature     50.00     50.00    500.00
+      phase XXXX          fit        murn 
         170.000004768372       -1749.98750289720     
         170.600004673004       -1749.98808042011     
         171.200004577637       -1749.98864033153     
