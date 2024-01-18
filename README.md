@@ -13,10 +13,9 @@ to execute:
     ./set_input_gibbs2
  
 Example: 
-           =================================================================
-                         input data for Gibbs2                               
-                 https://aoterodelaroza.github.io/gibbs2/                    
-         --------------------------------------------------------        
+         input data for Gibbs2                               
+         https://aoterodelaroza.github.io/gibbs2/                    
+                
          Necessary  input paramaters obtained from your ab initio code 
          The bulmk modulus        : B    (GPa)                         
          The prussure derivative  : Bp                            
